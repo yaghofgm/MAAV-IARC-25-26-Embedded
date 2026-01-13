@@ -849,10 +849,6 @@
     [
       "00000000-0000-0000-0000-00005cff706a",
       "CM5_GPIO ( Ethernet, GPIO, SDCARD)"
-    ],
-    [
-      "00000000-0000-0000-0000-00005ed4bb5b",
-      "PCIe-M2"
     ]
   ],
   "text_variables": {}
